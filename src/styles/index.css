@@ -10,3 +10,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.cardContainer{
+    display: flex;
+    justify-content: space-around;
+
+}
+.navbar-collapse{
+    flex-grow: 0;
+}
+.navbar{
+    justify-content: space-between;
+}

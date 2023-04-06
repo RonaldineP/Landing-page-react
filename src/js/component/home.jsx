@@ -9,7 +9,7 @@ const Home = () => {
 		<div className>
             <Navbar/>
             <Jumbotron/>
-			<div style={{ display: "flex"}}>
+			<div className="cardContainer">
 				<Card/>
 				<Card/>
 				<Card/>
